@@ -1,0 +1,6 @@
+[submodule "frontend/flyteer_frontend"]
+	path = frontend/flyteer_frontend
+	url = https://github.com/husseinassidi/flyteer_frontend.git
+[submodule "backend/flyteer_backend"]
+	path = backend/flyteer_backend
+	url = https://github.com/husseinassidi/flyteer_backend.git
